@@ -1,16 +1,20 @@
-### Hi there 👋
+### About me:
 
-<!--
-**Ishinaru/Ishinaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Computer Science student at the State University of Santa Cruz.
 
-Here are some ideas to get you started:
+### Details:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishinaru&show_icons=tru&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishinaru&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ishinaru&repo=jornadadev&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://mystickermania.com/cdn/stickers/cartoons/sticker_5014-512x512.png">
+  <img src="https://mystickermania.com/cdn/stickers/cartoons/sticker_5014-512x512.png" height=200 width=200 align = left>
+</picture>
