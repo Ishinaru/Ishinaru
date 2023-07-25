@@ -12,8 +12,6 @@
 
 ### Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ishinaru&repo=jornadadev&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://mystickermania.com/cdn/stickers/cartoons/sticker_5014-512x512.png">
   <img src="https://mystickermania.com/cdn/stickers/cartoons/sticker_5014-512x512.png" height=200 width=200 align = left>
